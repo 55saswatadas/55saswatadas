@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @55saswatadas
-- 👀 I’m interested in ... learnuing python and arduino projects
+- 👀 I’m interested in ... learning python and arduino projects
 - 🌱 I’m currently learning ... arduino programming
 - 💞️ I’m looking to collaborate on ...noone..I am here just for learning
 - 📫 How to reach me ...saswata.2002.sd@outlook.com
